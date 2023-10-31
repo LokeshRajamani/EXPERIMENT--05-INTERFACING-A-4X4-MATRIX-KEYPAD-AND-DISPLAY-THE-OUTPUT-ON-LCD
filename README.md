@@ -181,10 +181,11 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
  
 
 ## STM 32 CUBE PROGRAM :
-~~~
+```
 Name : Lokesh R
 Reg  no : 212222240055
-
+```
+```
 #include "main.h"
 #include <stdbool.h>
 #include "lcd.h"
@@ -349,21 +350,12 @@ void key()
 						HAL_Delay(500);
 
 }
-~~~
-
-
-
+```
 ## Output screen shots of proteus  :
-
-![e3](https://github.com/21005984/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/94748389/44afe9da-af82-4fe2-8a49-321e708c8a17)
-
-![e2](https://github.com/21005984/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/94748389/e9c39362-34a0-45e2-b999-13e14d553ab7)
-
-![e1](https://github.com/21005984/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/94748389/ec53c2a2-8729-4c59-b46c-600526f9b9c0)
-
+![ex5](https://github.com/LokeshRajamani/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/120544804/84d51ed1-1999-4f45-88c6-7ee3917c6166)
+![ex55](https://github.com/LokeshRajamani/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/120544804/cba1f0dd-43c8-4c10-bb76-38d1b382f7ed)
+![ex555](https://github.com/LokeshRajamani/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/120544804/129b418c-aa56-4bb7-9a7d-f6bb9b032153)
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-
-![e4](https://github.com/21005984/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/94748389/e5082bd1-c977-4405-8311-2e3e946c945e)
-
+![ex5 p](https://github.com/LokeshRajamani/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/120544804/287043d2-54da-4944-8db0-21210418ffd6)
 ## Result:
 Interfacing a 4x4 keypad with ARM microcontroller are simulated in proteus and the results are verified.
